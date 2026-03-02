@@ -1,0 +1,27 @@
+{
+  "id": "dolmenwood-equipment",
+  "title": "Dolmenwood Equipment",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Equipment",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dolmenwood",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
